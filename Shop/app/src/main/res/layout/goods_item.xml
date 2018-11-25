@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.lenovo.shop.GoodsItemActivity">
+   <TextView
+       android:text="@string/Take"
+       android:textSize="18sp"
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content" />
+    <Button
+       android:id="@+id/take_photo"
+       android:text="@string/take_photo"
+       android:textSize="18sp"
+       android:layout_gravity="top"
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content" />
+    <ImageView
+        android:id="@+id/picture"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        />
+    <EditText
+        android:id="@+id/tv1"
+        android:hint="@string/GoodsName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        />
+<EditText
+    android:id="@+id/tv2"
+    android:hint="@string/GoodsPrice"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    />
+    <Button
+        android:id="@+id/btn4"
+        android:text="@string/queren"
+        android:textSize="18sp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <Button
+        android:id="@+id/btn1"
+        android:text="@string/delete"
+        android:textSize="18sp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <EditText
+        android:id="@+id/et3"
+        android:hint="@string/change1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <EditText
+        android:id="@+id/et4"
+        android:hint="@string/change2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <Button
+        android:id="@+id/btn2"
+        android:text="@string/change"
+        android:textSize="18sp"
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:id="@+id/btn3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/buy"
+        android:textSize="18sp" />
+
+</LinearLayout>

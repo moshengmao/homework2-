@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="edittext" type="id">edittext</item>
+    <item name="edittext1" type="id">edittext1</item>
+    <item name="edittext3" type="id">edittext3</item>
+    <item name="main_browse_fragment" type="id">b</item>
+</resources>

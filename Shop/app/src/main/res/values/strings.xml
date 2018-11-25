@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">Shop</string>
+    <string name="yonghuming">用户名：</string>
+    <string name="qingdenglu">请您登录</string>
+    <string name="mima">密码：</string>
+    <string name="zhuce">注册</string>
+    <string name="queren">确认</string>
+    <string name="labelStore">Store</string>
+    <string name="register">注册</string>
+    <string name="title_activity_main2">Leanback Main2Activity Title</string>
+    <string name="browse_title"><![CDATA[Videos by Your Company]]></string>
+    <string name="related_movies">Related Videos</string>
+    <string name="grid_view">Grid View</string>
+    <string name="error_fragment">Error Fragment</string>
+    <string name="personal_settings">Personal Settings</string>
+    <string name="watch_trailer_1">Watch trailer</string>
+    <string name="watch_trailer_2">FREE</string>
+    <string name="rent_1">Rent By Day</string>
+    <string name="rent_2">From $1.99</string>
+    <string name="buy_1">Buy and Own</string>
+    <string name="buy_2">AT $9.99</string>
+    <string name="movie">Movie</string>
+    <string name="should_start">shouldStart</string>
+
+    <!-- Error messages -->
+    <string name="video_error_media_load_timeout">Media loading timed out</string>
+    <string name="video_error_server_inaccessible">Media server was not reachable</string>
+    <string name="video_error_unknown_error">Failed to load video</string>
+    <string name="error_fragment_message">An error occurred</string>
+    <string name="dismiss_error">Dismiss</string>
+    <string name="title_activity_main3">Main3Activity</string>
+    <string name="denglu">登录</string>
+    <string name="denglu成功">登录成功</string>
+    <string name="fanhui">返回</string>
+    <string name="zhuce成功">注册成功</string>
+    <string name="email">email</string>
+    <string name="cha">查询店铺中的商品</string>
+    <string name="phonenumber">手机号</string>
+    <string name="buy">购买</string>
+    <string name="todo">TODO</string>
+    <string name="hello">您好！</string>
+    <string name="jiaHao">+</string>
+    <string name="store1">店铺1</string>
+    <string name="addGoods">添加商品</string>
+    <string name="buildStore">创建店铺</string>
+    <string name="name">name</string>
+    <string name="price">price</string>
+    <string name="delete">删除</string>
+    <string name="change">修改</string>
+    <string name="storeName">storeName</string>
+    <string name="inputStore">请输入店名</string>
+    <string name="take_photo">照相</string>
+    <string name="inpuBossName">请输入用户名</string>
+    <string name="log">登录</string>
+    <string name="Take">请为商品拍照</string>
+    <string name="GoodsName">商品名字</string>
+    <string name="GoodsPrice">商品价格</string>
+    <string name="change1">修改商品价格</string>
+    <string name="change2">修改商品名字</string>
+
+</resources>
